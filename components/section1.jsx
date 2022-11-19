@@ -16,7 +16,7 @@ const section1 = () => {
   );
 }
 
-// <div className=""></div>
+<div className=""></div>
 
 function Slide() {
   return (
